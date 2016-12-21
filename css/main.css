@@ -43,7 +43,7 @@ body {
 }
 
 .bg-image {
-  background-image: url(https://www.planwallpaper.com/static/images/ZhGEqAP.jpg);
+  background-image: url("https://www.planwallpaper.com/static/images/ZhGEqAP.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
