@@ -42,6 +42,12 @@ body {
   height:100%;
 }
 
+.bg-image {
+  background-image: url(https://www.planwallpaper.com/static/images/ZhGEqAP.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
 .container {
   min-height:100%;
   position:relative;
